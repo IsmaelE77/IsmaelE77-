@@ -9,7 +9,7 @@
 ## Links:
 <p>
   <img width="20px" align="center" src="https://user-images.githubusercontent.com/109707345/230231152-26eb92a3-1f20-4410-9620-0de18bd0d236.png" />
-  LinkedIn >> https://www.linkedin.com/
+  LinkedIn >> https://www.linkedin.com/in/ismael-kashor
 </p>
 <p>
   <img width="20px" align="center" src="https://user-images.githubusercontent.com/109707345/230231075-dab7d3db-9431-4018-994b-b5be4e627fd2.png" />
